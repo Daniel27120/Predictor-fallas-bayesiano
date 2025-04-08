@@ -1,0 +1,11 @@
+Sintoma_1,Sintoma_2,Falla_Probable,Probabilidad
+Pantalla negra,No arranca BIOS,RAM dañada,0.9
+Artefactos visuales,Ruido del ventilador alto,GPU defectuosa,0.7
+Congelamiento,Teclado sin respuesta,RAM dañada,0.85
+Pantalla negra,LED sin actividad,Placa madre dañada,0.8
+Reinicio aleatorio,Pérdida de archivos,SSD fallando,0.95
+No detecta disco,Sistema lento,SSD fallando,0.9
+Sin detección de dispositivos,No carga de batería,Entradas de la computadora,0.75
+Pantalla en negro,Error al iniciar el sistema operativo,SSD fallando,0.88
+Calor excesivo,Apagado repentino,Fallo en el ventilador,0.92
+Calor excesivo,Sistema lento,Fallo en el ventilador,0.78
